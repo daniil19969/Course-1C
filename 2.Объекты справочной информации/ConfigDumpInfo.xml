@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.9">
+	<ConfigVersions>
+		<Metadata name="Catalog.Контрагенты" id="88513891-3590-4d0a-83af-568ffc55fb79" configVersion="25a826c1a5c5964fb71e64ee4ae68e8300000000">
+			<Metadata name="Catalog.Контрагенты.Attribute.Прочее" id="3156896b-6e37-480b-b56b-ee5d1ab923f1"/>
+			<Metadata name="Catalog.Контрагенты.Attribute.Клиент" id="861cdad2-34fd-4528-8a15-b13a97830666"/>
+			<Metadata name="Catalog.Контрагенты.Attribute.Поставщик" id="b450fe33-abd4-4499-9186-29216b242c44"/>
+			<Metadata name="Catalog.Контрагенты.Attribute.ОтветственныйМенеджер" id="f7112dd1-9232-48bf-8d33-7656adb03ae4"/>
+		</Metadata>
+		<Metadata name="Catalog.Номенклатура" id="c4dabb39-26b5-42ac-8394-96e83940b369" configVersion="4f253c4acff3054e9f3c49849a0bfdd600000000"/>
+		<Metadata name="Catalog.Сотрудники" id="236f92ce-734f-4f77-9de1-bca57245c32a" configVersion="b7418ac1a4d75b44a71149542c63b5a400000000"/>
+		<Metadata name="Configuration.КанцОптТорг" id="4a032085-2fea-477f-b2e0-87c0e0546edb" configVersion="777be85b602553439fe24ab6e760063300000000"/>
+		<Metadata name="Constant.НаименованиеОрганизации" id="d20f7177-b30f-4cdc-b3f9-bed837502edc" configVersion="4bdf44992c9b874b8e58bad867ba368300000000"/>
+		<Metadata name="Constant.НаименованиеСклада" id="e05ea437-e00f-48a8-b3a1-407012c41716" configVersion="f8b8d2f7bbf66e48b20953a6ce94d5b600000000"/>
+		<Metadata name="Language.Русский" id="a8f38dbb-a328-45e8-bf03-c6efe0e6b719" configVersion="6b3d549b74be2442a017b453901c9b5900000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
