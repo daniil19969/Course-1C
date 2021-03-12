@@ -35,4 +35,10 @@
 {5,d16e5f9a-c696-4051-97a8-006cf3d6b9d1,"РегистрСведений.ЦенаНоменклатуры",8},
 {4,"_$PerformError$_",13},
 {4,"_$Transaction$_.Rollback",14},
-{4,"_$Data$_.Unpost",15}
+{4,"_$Data$_.Unpost",15},
+{5,19cee263-0eff-4ba6-8c17-8642d92b20b8,"",9},
+{4,"_$Data$_.PredefinedDataInitialization",16},
+{5,19cee263-0eff-4ba6-8c17-8642d92b20b8,"ПланСчетов.БухУчет",9},
+{4,"_$Data$_.Delete",17},
+{4,"_$InfoBase$_.DumpStart",18},
+{4,"_$InfoBase$_.DumpFinish",19}
