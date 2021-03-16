@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<PredefinedData xmlns="http://v8.1c.ru/8.3/xcf/predef" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="CalculationTypePredefinedItems" version="2.11">
+	<Item id="f74014a5-db8d-4587-aa47-357fd70c6952">
+		<Name>НевыходСотрудника</Name>
+		<Code>002</Code>
+		<Description>Невыход сотрудника</Description>
+		<ActionPeriodIsBase>false</ActionPeriodIsBase>
+	</Item>
+	<Item id="360f2867-cea9-460e-acee-cc6c85d8a97d">
+		<Name>ОкладПоТарифу</Name>
+		<Code>001</Code>
+		<Description>Оклад по тарифу</Description>
+		<ActionPeriodIsBase>false</ActionPeriodIsBase>
+		<Displaced>
+			<CalculationType>ChartOfCalculationTypes.Начисления.НевыходСотрудника</CalculationType>
+		</Displaced>
+	</Item>
+	<Item id="4260fe27-c6ad-4053-b396-d517784dddbf">
+		<Name>Премия</Name>
+		<Code>003</Code>
+		<Description>Премия</Description>
+		<ActionPeriodIsBase>false</ActionPeriodIsBase>
+	</Item>
+</PredefinedData>
